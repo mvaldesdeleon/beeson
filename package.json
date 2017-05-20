@@ -1,0 +1,21 @@
+{
+  "name": "myson",
+  "version": "0.0.1",
+  "description": "Like JSON except mine",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.6.3"
+  },
+  "repository": "mvaldesdeleon/myson",
+  "keywords": [
+      "serializiation",
+      "serialize",
+      "deserialization",
+      "deserialize",
+      "json",
+      "binary"
+  ],
+  "author": "Martin Valdes de Leon <m.valdesdeleon@gmail.com>",
+  "license": "MIT"
+}
