@@ -1,12 +1,12 @@
-# myson
+# beeson
 
-Like JSON except mine
+Transparent binary JSON-based serialization
 
 # install
 with [npm](https://npmjs.org) do:
 
 ```
-npm install myson
+npm install beeson
 ```
 
 # license

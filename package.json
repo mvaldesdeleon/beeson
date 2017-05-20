@@ -1,20 +1,21 @@
 {
-  "name": "myson",
+  "name": "beeson",
   "version": "0.0.1",
-  "description": "Like JSON except mine",
+  "description": "Transparent binary JSON-based serialization",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
     "tape": "^4.6.3"
   },
-  "repository": "mvaldesdeleon/myson",
+  "repository": "mvaldesdeleon/beeson",
   "keywords": [
       "serializiation",
       "serialize",
       "deserialization",
       "deserialize",
       "json",
-      "binary"
+      "binary",
+      "node"
   ],
   "author": "Martin Valdes de Leon <m.valdesdeleon@gmail.com>",
   "license": "MIT"
