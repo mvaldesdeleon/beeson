@@ -3,19 +3,22 @@
   "version": "0.0.1",
   "description": "Transparent binary JSON-based serialization",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "lodash.clonedeepwith": "^4.5.0",
+    "msgpack": "^1.0.2"
+  },
   "devDependencies": {
     "tape": "^4.6.3"
   },
   "repository": "mvaldesdeleon/beeson",
   "keywords": [
-      "serializiation",
-      "serialize",
-      "deserialization",
-      "deserialize",
-      "json",
-      "binary",
-      "node"
+    "serializiation",
+    "serialize",
+    "deserialization",
+    "deserialize",
+    "json",
+    "binary",
+    "node"
   ],
   "author": "Martin Valdes de Leon <m.valdesdeleon@gmail.com>",
   "license": "MIT"
