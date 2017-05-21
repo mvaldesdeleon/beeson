@@ -1,6 +1,6 @@
 {
   "name": "beeson",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Transparent binary JSON-based serialization",
   "main": "index.js",
   "dependencies": {
